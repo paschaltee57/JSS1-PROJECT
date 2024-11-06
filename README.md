@@ -12,7 +12,9 @@ step 6 as at this point open your screen recorder to record your actions while e
 step 7 locate the name Paschal and edit it to your own name<br>
 step 8 locate   <p>
         &lt;button onclick=&quot;appendDisplay('+')&quot; class=&quot;operation&quot;&gt;-&lt;/button&gt;
-    </p> and make it rhyme as thought in class<br>
+    </p> and  <p>
+        &lt;button onclick=&quot;appendDisplay('-')&quot; class=&quot;operation&quot;&gt;+&lt;/button&gt;
+    </p> make it rhyme as thought in class<br>
 step 9 save defy and head back to your Chrome browser <br>
 step 10 test the operation and check if the plus and minus button has been corrected<br>
 stop the video and send it(the screen recorded video) to your teacher (me) on WhatsApp on 09153105037
