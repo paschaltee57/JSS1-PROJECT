@@ -15,6 +15,6 @@ step 8 locate   <p>
     </p> and  <p>
         &lt;button onclick=&quot;appendDisplay('-')&quot; class=&quot;operation&quot;&gt;+&lt;/button&gt;
     </p> make it rhyme as thought in class<br>
-step 9 save defy and head back to your Chrome browser <br>
+step 9 save the code  and head back to your Chrome browser <br>
 step 10 test the operation and check if the plus and minus button has been corrected<br>
 stop the video and send it(the screen recorded video) to your teacher (me) on WhatsApp on 09153105037
